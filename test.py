@@ -8,3 +8,4 @@ dictNE_number = {
         'safety': 0
     }
 print(list(dictNE_number.values()))
+print("hello world")
