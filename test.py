@@ -9,3 +9,5 @@ dictNE_number = {
     }
 print(list(dictNE_number.values()))
 print("hello world")
+print("hello world1")
+print("hello world2")
